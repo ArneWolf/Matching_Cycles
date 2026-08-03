@@ -1,7 +1,6 @@
 # Matching Cycles
-Cycle matching experiments
 
-Based on [1], using [2,3].
+Here are some cycle matching experiments based on [1], using [2,3]. They are part of a collaboration with Omer Bobrowski, Flavio Gualtieri, Anthea Monod, Matilde Muzzolini, Primoz Skraba, and Qiquan Wang arising from the 2025 edition of the LOGML summer school.
 
 In order to run the code you need to compile a modified version of Ripser from [3], as described here: https://github.com/inesgare/interval-matching/tree/original
 
