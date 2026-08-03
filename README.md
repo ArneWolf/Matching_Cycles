@@ -3,6 +3,8 @@ Cycle matching experiments
 
 Based on [1], using [2,3].
 
+In order to run the code you need to compile a modified version of Ripser from [3], as described here: https://github.com/inesgare/interval-matching/tree/original
+
 ## References
 
 [1] Reani, Yohai, and Bobrowski, Omer. 2021. ‘Cycle Registration in Persistent Homology with Applications in Topological Bootstrap’, In: IEEE Trans Pattern Anal Mach Intell. 45(5) (2023), pp. 5579–5593. doi: 10.1109/TPAMI.2022.3217443
